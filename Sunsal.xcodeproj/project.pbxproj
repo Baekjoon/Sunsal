@@ -16,7 +16,7 @@
 		737DB3901A0B91B500F6B061 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 737DB38E1A0B91B500F6B061 /* LaunchScreen.xib */; };
 		737DB39C1A0B91B500F6B061 /* SunsalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB39B1A0B91B500F6B061 /* SunsalTests.swift */; };
 		737DB3AD1A0B962700F6B061 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB3AC1A0B962700F6B061 /* MainViewController.swift */; };
-		737DB3AF1A0BA1CF00F6B061 /* OnlineJudgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB3AE1A0BA1CF00F6B061 /* OnlineJudgeViewController.swift */; };
+		73FE8A621A35BD23003AE758 /* OnlineJudgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737DB3AE1A0BA1CF00F6B061 /* OnlineJudgeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -283,8 +283,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				737DB3AF1A0BA1CF00F6B061 /* OnlineJudgeViewController.swift in Sources */,
 				7376EF471A10DC550052D94E /* AlbumManager.swift in Sources */,
+				73FE8A621A35BD23003AE758 /* OnlineJudgeViewController.swift in Sources */,
 				737DB3861A0B91B500F6B061 /* AppDelegate.swift in Sources */,
 				737DB3AD1A0B962700F6B061 /* MainViewController.swift in Sources */,
 			);
