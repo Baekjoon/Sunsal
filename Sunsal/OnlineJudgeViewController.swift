@@ -61,7 +61,7 @@ class OnlineJudgeViewController: UITableViewController {
                 cell.detailTextLabel?.text = s;
             }
             if let s = d["problem_id"] as? String {
-                cell.textLabel.text = s;
+                cell.textLabel?.text = s;
             }
         }
 
